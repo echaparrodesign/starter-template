@@ -1,0 +1,13 @@
+body {
+  font-family: roboto, sans-serif;
+  margin: 0px;
+  font-size: 20px;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: rgb(20, 94, 255);
+  font-weight: 600;
+  text-decoration: none;
+}
